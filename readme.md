@@ -31,5 +31,9 @@ Nintendo DS Digital TV Tuner
 Bluetooth Reciever to connect with the Nintendo Wireless Keyboard  
 DS Direction Sensing Card  
 
-Other:  
-Megaman Starforce Wave Scanner (Connects via microphone jack of all things.)
+Other Accessories:  
+Megaman Starforce Wave Scanner (Connects via microphone jack of all things.)  
+
+Internal Hardware:  
+Pressure Sensitive Touch Screen (Original model only)  
+Temperature Sensor
