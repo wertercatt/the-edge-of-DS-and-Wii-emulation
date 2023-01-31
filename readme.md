@@ -30,3 +30,6 @@ Slot-1 Custom Hardware:
 Nintendo DS Digital TV Tuner  
 Bluetooth Reciever to connect with the Nintendo Wireless Keyboard  
 DS Direction Sensing Card  
+
+Other:  
+Megaman Starforce Wave Scanner (Connects via microphone jack of all things.)
