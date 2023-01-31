@@ -23,7 +23,7 @@ Easy Piano Keyboard
 Beypoint Reader and Beypointer  
 SmartStylus & SmartStylus 2 (Unreleased. Might still be supported in the code for Squeeballs)  
 Ranger GPS System  
-FM Radio Converters 
+FM Radio Converters  
 Max Media Dock  
 
 Slot-1 Custom Hardware:  
