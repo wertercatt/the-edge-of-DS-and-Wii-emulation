@@ -32,6 +32,7 @@ Nintendo DS Digital TV Tuner
 Bluetooth Reciever to connect with the Nintendo Wireless Keyboard  
 DS Direction Sensing Card  
 DS Motion Card (Homebrew version of the above. Potentially cloned by some flash cards. https://web.archive.org/web/20070105053630/http://www.ndsmotion.com/ )  
+DSVision  
 Action Replay Variants
 
 Other Accessories:  
